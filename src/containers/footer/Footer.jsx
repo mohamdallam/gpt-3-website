@@ -18,7 +18,11 @@ const Footer = () => (
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
         <p>
+<<<<<<< HEAD
           Crechterwoord <br /> All Rights Reserved
+=======
+          Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved
+>>>>>>> b0d709c788dbba555b9766888f422a3a2f5af2b8
         </p>
       </div>
       <div className="gpt3__footer-links_div">
@@ -36,9 +40,15 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
+<<<<<<< HEAD
         <p>Crechterwoord</p>
         <p>000000000</p>
         <p>info@gmail.com</p>
+=======
+        <p>Crechterwoord K12 182 DK Alknjkcb</p>
+        <p>085-132567</p>
+        <p>info@payme.net</p>
+>>>>>>> b0d709c788dbba555b9766888f422a3a2f5af2b8
       </div>
     </div>
 
